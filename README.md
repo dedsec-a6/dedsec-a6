@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/mhmalthaf" target="blank"><img src="https://img.shields.io/twitter/follow/mhmalthaf?logo=twitter&style=for-the-badge" alt="mhmalthaf" /></a> </p>
 
-- 🔭 I’m currently working on **Designing Logos**
+- 🔭 I’m currently working on **Designing Stuff & Programming Things**
 
 - 🌱 I’m currently learning **Frameworks, React.js, MongoDB**
 
